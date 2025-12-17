@@ -29,7 +29,7 @@ surajkrsah-portfolio/
 └── README.md       # Project documentation
 
 🚀 Local Deployment (Without Docker)
-1. Clone the repository git clone https://github.com/suraj-kumar-shah/surajkrsah-portfilio.git
+1. Clone the repository git clone [https://github.com/suraj-kumar-shah/surajkrsah-portfilio.git](https://suraj-kumar-shah.github.io/surajkrsah-portfolio/)
 2. cd surajkrsah-portfilio
 3. 
 4. Add required assets
